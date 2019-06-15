@@ -1,2 +1,2 @@
 # JS-Algos
-Javascript cheat sheet for myself and others
+Javascript reference sheet for myself and others
