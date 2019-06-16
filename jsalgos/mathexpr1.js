@@ -30,4 +30,23 @@ console.log(remains);
 // same as add = add - 1;
 
 
+//Only original variable gets increased
+
+let num = 1;
+let nuNum = num++;
+
+console.log(num);
+console.log(nuNum);
+
+// Increment both variables
+
+let numberA = 1;
+let numberB = ++numberA;
+
+console.log(numberA);
+console.log(numberB);
+
+// Order of operations
+// standard order applies
+
 
